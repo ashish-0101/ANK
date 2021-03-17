@@ -1,0 +1,36 @@
+
+.error_4{
+   
+    width: 7rem;
+    height: 7rem;
+    
+    font-size: 7rem;
+    
+}
+.error_2nd_4{
+    
+    width: 7rem;
+    height: 7rem;
+    font-size: 7rem;
+}
+
+
+.face{
+  
+    position: relative;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    background-image: url('/6047baffcc5cb814172962.gif');
+    background-repeat: no-repeat;
+    /* background-position-y: -115px;
+    background-position-x: -103px; */
+    z-index: 5;
+    background-size: 13rem;
+    background-position: -34px -4px;
+    
+}    
+
+.size{
+    font-size: 0.8rem;
+}
